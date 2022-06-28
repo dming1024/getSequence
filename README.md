@@ -1,5 +1,11 @@
 # getSequence
 
+## Introduction
+
+根据断点位置，获取融合基因的序列信息
+Try to get fusion genes' sequences or transcripts, based on the break points
+
+
 ## Usage
 
 ```R
